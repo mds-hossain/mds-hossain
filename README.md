@@ -1,6 +1,8 @@
 # Hi, I'm Shakhawat 👋
 
-**Applied AI & Software QA Engineer**  I break software before users do, and design experiences that make quality feel effortless.
+**Applied AI & Software QA Engineer**  🌐 [mds-hossain.github.io](https://mds-hossain.github.io)
+
+I break software before users do, and design experiences that make quality feel effortless.
 
 I work at the intersection of quality engineering and human-centered design: testing, usability research, and AI-assisted development & workflows.
 
@@ -31,7 +33,7 @@ I work at the intersection of quality engineering and human-centered design: tes
 **Workflow:** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white) · Agile/Scrum
 
 ## 🔍 Featured work
-
+- 📂 **[Comprehensive QA Portfolio](https://github.com/mds-hossain/QA-Portfolio):** A curated collection of my test documentation, test plan, test cases, and QA audits.
 - **[EuroTrack](https://shossain.xyz/project/eurotrack):** enterprise SaaS for workforce logistics; designed, built, and E2E-tested end-to-end
 - **[Redesigning Moodle](https://shossain.xyz/project/redesigning-moodle):** full UX overhaul of the LMS used by millions
 - **[PawTinder](https://shossain.xyz/project/paw-tinder):** trusted pet adoption app built with design thinking
