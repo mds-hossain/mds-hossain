@@ -2,7 +2,7 @@
 
 **Software QA & UX Engineer** | I break software before users do, and design experiences that make quality feel effortless.
 
-I work at the intersection of quality engineering and human-centered design: automated testing, usability research, and AI-assisted QA workflows.
+I work at the intersection of quality engineering and human-centered design: testing, usability research, and AI-assisted workflows.
 
 ---
 
@@ -20,10 +20,14 @@ I work at the intersection of quality engineering and human-centered design: aut
 
 ## 🛠️ Core stack
 
-**Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | E2E automation · regression · UAT · black box
-**Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | wireframing · prototyping · usability testing · HCD
-**Applied AI:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white) | Prompt Engineering · LLM Scripting
+**Testing:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) · E2E automation · regression · UAT · black box
+
+**Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) · wireframing · prototyping · usability testing · HCD
+
+**Applied AI:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square) ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white) · Prompt Engineering · LLM Scripting
+
 **Engineering:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | CI/CD
+
 **Workflow:** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) | Agile/Scrum · Six Sigma Green Belt
 
 ## 🔍 Featured work
